@@ -39,7 +39,7 @@ I train and facilitate workshops on AI tools and digital skills for government a
 
 ## 💼 ประสบการณ์ | Experience
 
-### อดีตหัวหน้าสำนักงาน | Former Office Director
+### จิตอาสา 
 **มูลนิธิสถาบันการจัดการวิถีพุทธเพื่อสุขและสันติ | IBHAP Foundation**
 
 ---
