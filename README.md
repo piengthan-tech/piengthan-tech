@@ -11,8 +11,8 @@
 
 <!-- PROFILE IMAGE -->
 <img src="https://raw.githubusercontent.com/piengthan-tech/piengthan-tech/main/IMG_5581.jpeg"
-     width="150"
-     height="150"
+     width="200"
+     height="220"
      style="border-radius:50%; object-fit:cover;"
      alt="Phakjira Silakhao"/>
 
