@@ -9,7 +9,7 @@
 
 ### ภัคจิรา ศิลาขาว
 
-`AI Trainer` &nbsp;·&nbsp; `Digital Tools Facilitator` &nbsp;·&nbsp; `Bangkok, Thailand`
+`AI Trainer` &nbsp;·&nbsp;  &nbsp;·&nbsp; `Bangkok, Thailand`
 
 <br/>
 
