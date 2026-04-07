@@ -6,7 +6,7 @@
 
 <!-- PROFILE IMAGE -->
 <br/>
-<img src="https://raw.githubusercontent.com/piengthan-tech/piengthan-tech/main/profile.jpg" width="160" style="border-radius:50%;" alt="Phakjira Silakhao"/>
+<img src="https://raw.githubusercontent.com/piengthan-tech/piengthan-tech/main/IMG_5581.jpeg""/>
 
 <br/>
 
